@@ -1,0 +1,55 @@
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\SE project.exe
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\SE project.deps.json
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\SE project.runtimeconfig.json
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\SE project.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\SE project.pdb
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\softaware engineering\SE project\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE project.vbproj.AssemblyReference.cache
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE_project.Form1.resources
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE_project.Form2.resources
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE_project.Resources.resources
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE project.vbproj.GenerateResource.cache
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE project.GeneratedMSBuildEditorConfig.editorconfig
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE project.AssemblyInfoInputs.cache
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE project.AssemblyInfo.vb
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE project.vbproj.CoreCompileInputs.cache
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE project.vbproj.CopyComplete
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE project.dll
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\refint\SE project.dll
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE project.pdb
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE project.genruntimeconfig.cache
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\ref\SE project.dll
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE_project.Form3.resources
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE_project.Form4.resources
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE_project.Form5.resources
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE_project.Form6.resources
+E:\softaware engineering\SE project\obj\Debug\net6.0-windows\SE_project.welcome.resources
